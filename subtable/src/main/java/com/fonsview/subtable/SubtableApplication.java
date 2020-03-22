@@ -1,13 +1,16 @@
-package com.fonsview.demo;
+package com.fonsview.subtable;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author HenryHu
+ */
 @SpringBootApplication
-public class DemoApplication {
+public class SubtableApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(SubtableApplication.class, args);
     }
 
 }
