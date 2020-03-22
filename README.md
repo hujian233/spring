@@ -2,7 +2,8 @@
 SpringBoot实现分库分表插件———中间遇到的一些问题解决过程记录下
 
 ## @Data注解 lombok使用
-https://www.jianshu.com/p/c1ee7e4247bf
+https://www.jianshu.com/p/c1ee7e4247bf  
+配置@Data注解依赖、需要配合lombok插件使用
 ## Springboot的注解执行器
 https://blog.csdn.net/liangjiabao5555/article/details/104062932  
 使用@ConfigurationProperties注解时会提示 Spring Boot Configuration Annotation Processor not configured，配置注解执行器，
